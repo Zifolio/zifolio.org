@@ -1,0 +1,22 @@
+
+{
+  "name": "Zifolio - Educação Financeira Angola",
+  "short_name": "Zifolio",
+  "description": "A maior plataforma de educação financeira de Angola. Aprenda sobre BODIVA, Títulos do Tesouro e poupança com IA e gamificação.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0066FF",
+  "icons": [
+    {
+      "src": "https://zifolio.vercel.app/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
