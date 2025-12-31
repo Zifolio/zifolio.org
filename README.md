@@ -1,2 +1,20 @@
-# zifolio.org
-O Zifolio nasceu da necessidade de simplificar o mundo dos investimentos para o cidadão comum angolano. No coração da Huíla, percebemos que a falta de informação era a maior barreira para a prosperidade financeira.  Somos uma EdTech focada em transformar o "Kwanza parado" em património crescente.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1UzjuL6kjRx_nj3z3TMpGZn4B03Xg7OOI
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
